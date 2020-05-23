@@ -1,0 +1,37 @@
+README FILE
+
+main.cc : Holds main
+
+VectorOperations.hh : Declatation of vector operations
+
+SparseMatrix.hh : SparseMatrix Class Header
+
+SparseMatrix.cc : SparseMatrix Class Implementation
+
+Makefile : Makefile for Program
+
+report.odt : LibreOffice File
+
+report.pdf : PDF of Report
+
+data.dat : Data from program
+
+Delta_Iterations_Residual.p : Plotting Script 
+
+Delta_Iterations_Residual.png : Graphic
+
+Lambda_Iterations_Residual.p : Plotting Script
+
+Lambda_Iterations_Residual.png : Graphic
+
+run.sh : Bash script
+
+#How to compile
+Type into terminal:
+
+> chmod u+x run.sh
+
+#How to run bash file
+Type into terminal:
+
+> ./run.sh
