@@ -13,7 +13,7 @@ We study a vector-valued IVP using the C++ library ODEINT
 
 ## Assignment 4
 This assignment consisted of 3 separate problems:
-Q1. Monte Carlo integration is studied.
-Q2. A solution of an ODE with uncertain parameters is calculated using Monte Carlo approximations.
-Q3. An advection-diffusion is studied using finite differences.  
+* Q1. Monte Carlo integration is studied.
+* Q2. A solution of an ODE with uncertain parameters is calculated using Monte Carlo approximations.
+* Q3. An advection-diffusion is studied using finite differences.  
 
