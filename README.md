@@ -9,7 +9,7 @@ A SparseMatrix class is implemented and used to invert a matrix using the Gauss-
 A class to implement a family of Runga-Kutta methods is created to solve and analyse numerically some 1D initial value problems. 
 
 ## Assignment 3
-We study a vector-valued IVP using the C++ library ODEINT.
+A vector-valued IVP is studied using the C++ library ODEINT.
 
 ## Assignment 4
 This assignment consisted of 3 separate problems:
